@@ -14,7 +14,7 @@ print("""
  | |___| | | | | | (_| |   | | (_| \__ \ |_| | | | | (_| | | | (_| |
  |_____|_| |_| |_|\__,_|   |_|\__,_|___/\__,_|_| |_|\__,_|_|  \__,_|
                                                                     
-"""")
+""")
 
 class Bot(commands.AutoShardedBot):
     """A custom bot object that provides a configuration handler and an aiohttp ClientSession."""
