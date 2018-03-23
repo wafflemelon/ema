@@ -1,0 +1,8 @@
+git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py
+beautifulsoup4
+Pillow
+requests
+lxml
+psutil
+faker
+# speedtest-cli
