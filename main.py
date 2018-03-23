@@ -7,6 +7,14 @@ from discord.ext import commands
 
 import core
 
+print("""
+  _____                  __   __              _                    
+ | ____|_ __ ___   __ _  \ \ / /_ _ ___ _   _| |__   __ _ _ __ __ _ 
+ |  _| | '_ ` _ \ / _` |  \ V / _` / __| | | | '_ \ / _` | '__/ _` |
+ | |___| | | | | | (_| |   | | (_| \__ \ |_| | | | | (_| | | | (_| |
+ |_____|_| |_| |_|\__,_|   |_|\__,_|___/\__,_|_| |_|\__,_|_|  \__,_|
+                                                                    
+"""")
 
 class Bot(commands.AutoShardedBot):
     """A custom bot object that provides a configuration handler and an aiohttp ClientSession."""
