@@ -73,6 +73,7 @@ class BotInfo:
         embed.add_field(name="Total RAM", value=f"{total_ram}")
         embed.add_field(name="Available RAM", value=f"{available_ram}")
         embed.add_field(name="RAM used by me", value=f"{usage}")
+        embed.add_field(name="Github Repository:", value="https://github.com/wafflemelon/ema")
         embed.add_field(name="support server",
                         value="https://discord.gg/2YcPwgt")
         embed.set_thumbnail(url=ctx.bot.user.avatar_url_as(format="png"))

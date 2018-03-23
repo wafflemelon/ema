@@ -27,4 +27,8 @@ python3.6 main.py
 
 ## Why make a anime-themed discord bot?
 Very intelligent question you've asked..
+<<<<<<< HEAD
 See I'm a weeb and I wanted my waifu to be real, so this is a failed attempt to do that... (;w;) 
+=======
+See I'm a weeb and I wanted my waifu to be real, so this is a failed attempt to do that... (;w;) 
+>>>>>>> bf2594842cdde4525e08092044e99340a9f10eec

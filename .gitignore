@@ -1,0 +1,6 @@
+config.json
+
+data/ema.db
+
+*.pyc
+__pycache__/
