@@ -8,7 +8,7 @@ Ema
 ![PyPI - Python Version](https://img.shields.io/badge/Python-3.6.4-blue.svg?style=flat-square) [![GitHub Stars](https://img.shields.io/github/stars/wafflemelon/ema.svg?style=flat-square)](https://github.com/wafflemelon/ema/)
 
 **Ema** discord bot written in Python 3.6 using [discord.py](https://github.com/Rapptz/discord.py/tree/rewrite).
-
+derived from the K2 core found at https://github.com/n303p4/kitsuchan-2
 
 ## Installation:
 Installing the requirements first, but make sure Python 3.6 is already installed.
